@@ -1,4 +1,4 @@
-Hi! I'm Mukta, a passionate web developer with expertise in Android and web development. Welcome to my github profile.
+Hi! I'm Mukta, a passionate web developer with expertise in Android and web development. Welcome to my GitHub profile.
 
 ## About Me
 
