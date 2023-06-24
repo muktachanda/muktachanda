@@ -1,5 +1,3 @@
-# Mukta Chanda
-
 Hi! I'm Mukta, a passionate web developer with expertise in Android and web development. Welcome to my github profile.
 
 ## About Me
