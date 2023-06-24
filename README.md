@@ -3,7 +3,7 @@ Hi! I'm Mukta, a passionate web developer with expertise in Android and web deve
 ## About Me
 
 - 🔭 I’m currently working on developing Android applications.
-- 🌱 I’m currently learning to incorporate various APIs in the web development ecosystem.
+- 🌱 I’m currently learning how to incorporate various server APIs in the web development ecosystem.
 - 👯 I’m open to collaborate on projects that need frontend development and UI/UX Design.
 - 🤔 I’m looking for help with Unity.
 - 💬 Ask me about MERN stack or Java based Android applications.
