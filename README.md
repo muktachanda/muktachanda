@@ -15,7 +15,7 @@ Hi! I'm Mukta, a passionate web developer with expertise in Android and web deve
 - Databases: SQL, MongoDB
 
 ## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/mukta-chanda-888a30219/
+- LinkedIn: https://www.linkedin.com/in/mukta-chanda/
 - Email: mukta.chanda@students.iiit.ac.in
 
 Feel free to explore my repositories :)
